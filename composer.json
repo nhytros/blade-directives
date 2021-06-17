@@ -1,0 +1,17 @@
+{
+    "name": "nhytros/blade-directives",
+    "description": "Blade directives",
+    "type": "library",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nhytros\\BladeDirectives\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "Nhytros",
+        "email": "nhytros@gmail.com"
+    }],
+    "require": {}
+}
